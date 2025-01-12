@@ -4,3 +4,7 @@ pydantic
 passlib[argon2]
 python-jose
 psycopg2
+cloud-sql-python-connector[pg8000]
+SQLAlchemy
+pg8000
+google-auth
